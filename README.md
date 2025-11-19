@@ -5,6 +5,7 @@ py -m venv venv
 venv\Scripts\acrivate
 pip install django
 django-admin startproject project .
+py manage.py startapp contact
 '''
 
 Configurar o git
